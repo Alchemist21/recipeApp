@@ -1,0 +1,29 @@
+.background {
+	background: url("../images/food.jpg");	
+	background-size: 100% auto;
+}
+h1, h2, div {
+	color: 	#660022;
+	font-family: courier;
+}
+
+
+.button {
+	border: solid blue 1px;
+	width: 150px;
+	display: inline-block;
+	text-align: center;
+	color:#660022;
+	cursor: pointer;
+}
+.mp-10{
+	padding: 10px;
+	margin: 10px;
+	font-family: courier;
+	font-style: bold;
+}
+
+.button:hover {
+	background-color: #33cccc;
+	color: white;
+}
